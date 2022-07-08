@@ -52,6 +52,6 @@ Responsiveness
 ## Author
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Davidmide02)
-- Twitter - [@yourusername](https://www.twitter.com/Davidmide02)
+- Twitter - [@Davidmide02](https://www.twitter.com/Davidmide02)
 
 
