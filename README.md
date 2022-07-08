@@ -21,8 +21,8 @@ The challenge is pretty nice, it makes me put together my CSS skills
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Davidmide02/QR-code-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solition](https://github.com/Davidmide02/QR-code-component.git)
+- Live Site URL: [Live-site](https://davidmide02.github.io/QR-code-component/)
 
 
 ### Built with
